@@ -1,0 +1,78 @@
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color:rgb(234, 255, 255);
+}
+.center1 {
+    text-align: center;
+    margin: auto;
+}
+.family1 {
+    width: 1400px;
+    height: 500px;
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
+    margin: auto;
+}
+.family2 {
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.begin {
+    width: 300px;
+    height: 150px;
+    border-radius: 25px;
+    background: white;
+    margin: 10px;
+    -webkit-box-shadow: 2px 2px 17px 13px rgba(39, 40, 41, 0.13);
+-moz-box-shadow: 2px 2px 17px 13px rgba(39, 40, 41, 0.13);
+box-shadow: 2px 2px 17px 13px rgba(20, 20, 20, 0.13);
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.stroka {
+    border: 0.5px grey solid;
+    width: 280px;
+    display: flex;
+    margin: auto;
+}
+.button {
+    background-color: #ffffff; /* Green */
+    border: 2px blue solid;
+    width: 75px;
+    height: 25px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    margin-top: 25px;
+    float: left;
+}
+a {
+    text-decoration: none;
+    color: rgb(48, 47, 47);
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 10px;
+    margin-top: 27px;
+    margin-left: 200px;
+    color: grey;
+}
+.family3 {
+    width: 1400px;
+    height: 500px;
+    background: rgb(139, 247, 247);
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
